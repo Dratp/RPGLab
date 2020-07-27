@@ -1,0 +1,13 @@
+C:\DevBuild4\GrandCircus\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.exe
+C:\DevBuild4\GrandCircus\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.deps.json
+C:\DevBuild4\GrandCircus\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.runtimeconfig.json
+C:\DevBuild4\GrandCircus\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.runtimeconfig.dev.json
+C:\DevBuild4\GrandCircus\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.dll
+C:\DevBuild4\GrandCircus\RPGLab\bin\Debug\netcoreapp3.1\RPGLab.pdb
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.csprojAssemblyReference.cache
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.AssemblyInfoInputs.cache
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.AssemblyInfo.cs
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.csproj.CoreCompileInputs.cache
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.dll
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.pdb
+C:\DevBuild4\GrandCircus\RPGLab\obj\Debug\netcoreapp3.1\RPGLab.genruntimeconfig.cache
